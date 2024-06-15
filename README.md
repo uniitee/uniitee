@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">
 
-<!--
-**UmaGhildiyal/UmaGhildiyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=900&color=E87BF7&center=true&vCenter=true&random=false&width=435&lines=Hi!+;I+am+Uma+Ghildiyal%F0%9F%A6%95)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Deep Learning and AI
+- 🌱 I’m currently learning TensorFlow and JavaScript
+- ⚡ Fun fact: Lucid Dreamer
+
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github,javascript,html,css,tailwind,tensorflow,python"/>
+        <img src="https://skillicons.dev/icons?i=c,discord,mysql"/>
+    </a>
+</div>
+
+<h2 align="center">✨ My Github Stats ✨</h2>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=UmaGhildiyal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
+  <br/>
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=UmaGhildiyal&theme=nightowl&hide_border=false)
+  <br/>
+</div>
