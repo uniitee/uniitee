@@ -25,3 +25,5 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=UmaGhildiyal&theme=nightowl&hide_border=false)
   <br/>
 </div>
+
+[![An image of @umaghildiyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umaghildiyal)](https://holopin.io/@umaghildiyal)
