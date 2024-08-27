@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Deep Learning and AI
 - 🌱 I’m currently learning TensorFlow and JavaScript
-- ⚡ Fun fact: Bottom Fragger
+- ⚡ Fun fact: Bottom Frag nomo
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
