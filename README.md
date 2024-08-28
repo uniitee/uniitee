@@ -1,12 +1,12 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=900&color=E87BF7&center=true&vCenter=true&random=false&width=435&lines=Hi!+;I+am+Uma+Ghildiyal%F0%9F%A6%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=500&color=E87BF7&center=true&vCenter=true&random=false&width=435&lines=Hi!+;I+am+Uma+Ghildiyal%F0%9F%A6%95)](https://git.io/typing-svg)
 
 </h1>
 
 - 🔭 I’m currently working on Deep Learning and AI
 - 🌱 I’m currently learning TensorFlow and JavaScript
-- ⚡ Fun fact: Bottom Frag nomo
+- ⚡ Fun fact: Bottom Frag Nomo
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
