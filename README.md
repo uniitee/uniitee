@@ -19,10 +19,10 @@
 <h2 align="center">✨ My Github Stats ✨</h2>
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=UmaGhildiyal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api?username=uniitee&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
   <br/>
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=UmaGhildiyal&theme=nightowl&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=uniitee&theme=nightowl&hide_border=false)
   <br/>
 </div>
 
