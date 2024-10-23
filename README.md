@@ -6,13 +6,13 @@
 </h1>
 
 - 🔭 I’m currently working on Deep Learning and AI
-- 🌱 I’m currently learning TensorFlow and JavaScript
+- 🌱 I’m currently learning Figma
 - ⚡ Fun fact: Tryna break through the recursive loop of life
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,javascript,html,css,tailwind,tensorflow,python"/>
+        <img src="https://skillicons.dev/icons?i=github,javascript,html,css,tailwind,tensorflow,python,figma"/>
         <img src="https://skillicons.dev/icons?i=c,discord,mysql"/>
     </a>
 </div>
