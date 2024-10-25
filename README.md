@@ -17,12 +17,17 @@
 
 </div>
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,javascript,html,css,tailwind,tensorflow,python,figma"/>
-        <img src="https://skillicons.dev/icons?i=c,discord,mysql"/>
-    </a>
+<div>
+
+  <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+
+  <div align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=github,javascript,html,css,tailwind,tensorflow,python,figma"/>
+          <img src="https://skillicons.dev/icons?i=c,discord,mysql"/>
+      </a>
+  </div>
+
 </div>
 
 <h2 align="center">✨ My Github Stats ✨</h2>
