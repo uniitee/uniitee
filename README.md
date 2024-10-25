@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center" style="margin-bottom:20px;">
-  <div style="text-align:left; max-width:700px; margin:auto;">
+  <div style="text-align:left; max-width:1800px;">
     - 🔭 I’m currently working on Deep Learning and AI<br>
     - 🌱 I’m currently learning Figma<br>
     - ⚡ Fun fact: Tryna break through the recursive loop of life
@@ -26,8 +26,10 @@
 
 <h2 align="center">✨ My Github Stats ✨</h2>
 <div align="center">
+
   ![](https://github-readme-stats.vercel.app/api?username=uniitee&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
   <br/>
+
   ![](https://github-readme-streak-stats.herokuapp.com/?user=uniitee&theme=nightowl&hide_border=false)
   <br/>
 </div>
