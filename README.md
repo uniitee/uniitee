@@ -5,7 +5,9 @@
 
 </h1>
 
-<div align="centre" style="display: flex">
+<img align="right" width="238" src="assets/octocatgif.gif" alt="uniitee"  />
+
+<div align="centre" >
 
     - 🔭 I’m currently working on Deep Learning and AI
 
