@@ -15,8 +15,6 @@
 
     - ⚡ Fun fact: Tryna break through the recursive loop of life
 
-  <img align="right" width="238" src="assets/octocatgif.gif" alt="uniitee"  />
-
 </div>
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
