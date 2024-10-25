@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<div align="center" style="margin-bottom:20px; display:flex;">
+<div align="center" style="margin-bottom:20px; display:flex; flex-direction:row">
   <div style="text-align:left; max-width:1800px;">
     - 🔭 I’m currently working on Deep Learning and AI<br>
     - 🌱 I’m currently learning Figma<br>
