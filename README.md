@@ -8,7 +8,7 @@
 <div align="centre" style="display: flex">
 
   <div>
-  
+
     - 🔭 I’m currently working on Deep Learning and AI
 
     - 🌱 I’m currently learning Figma
@@ -17,7 +17,7 @@
 
   </div>
 
-<img align="right" width="238" src="assets/octocatgif.gif" alt="uniitee"  />
+  <img align="right" width="238" src="assets/octocatgif.gif" alt="uniitee"  />
 
 </div>
 
