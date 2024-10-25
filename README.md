@@ -5,9 +5,21 @@
 
 </h1>
 
-- 🔭 I’m currently working on Deep Learning and AI
-- 🌱 I’m currently learning Figma
-- ⚡ Fun fact: Tryna break through the recursive loop of life
+<div align="centre" style="display: flex">
+
+  <div>
+  
+    - 🔭 I’m currently working on Deep Learning and AI
+
+    - 🌱 I’m currently learning Figma
+
+    - ⚡ Fun fact: Tryna break through the recursive loop of life
+
+  </div>
+
+<img align="right" width="238" src="assets/octocatgif.gif" alt="uniitee"  />
+
+</div>
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
