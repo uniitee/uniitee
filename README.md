@@ -13,6 +13,10 @@
 
 🌱 Currently - Procastinating for End-Sems
 
+👯 I’m looking to collaborate on **Deep Learning Projects**
+
+💬 Ask me about - Anything! I might not be able to help.
+
 ⚡ Fun fact - Trny break through the recursive loop of life
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
