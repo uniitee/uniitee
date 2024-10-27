@@ -6,14 +6,14 @@
   </a>
 </h1>
 
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; margin-bottom:20px;">
-  <div style="text-align:left; max-width:1800px;">
-    - 🔭 I’m currently working on Deep Learning and AI<br>
-    - 🌱 I’m currently learning Figma<br>
-    - ⚡ Fun fact: Tryna break through the recursive loop of life
-  </div>
-  <img width="320" src="assets/octocat2.gif" alt="uniitee" style="margin-top:10px;" />
-</div>
+<img align="right" width="320" src="assets/octocat2.gif" alt="uniitee"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uniitee&label=Profile%20views&color=0e2431&style=flat" alt="uniitee" /> </p>
+
+🔭 I’m currently working on Deep Learning and AI
+
+🌱 Currently - Procastinating for End-Sems
+
+⚡ Fun fact - Trny break through the recursive loop of life
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 
