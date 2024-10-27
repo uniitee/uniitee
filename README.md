@@ -12,7 +12,7 @@
     - 🌱 I’m currently learning Figma<br>
     - ⚡ Fun fact: Tryna break through the recursive loop of life
   </div>
-  <img width="238" src="assets/octocatgif.gif" alt="uniitee" style="margin-top:10px;" />
+  <img width="238" src="assets/octocat2.gif" alt="uniitee" style="margin-top:10px;" />
 </div>
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
