@@ -17,10 +17,10 @@
 
 💬 Ask me about - Anything! I might not be able to help.
 
-⚡ Fun fact - Trny break through the recursive loop of life
+⚡ Fun fact - Trny break through the recursive loop of life<br>
 
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
