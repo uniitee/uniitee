@@ -1,4 +1,4 @@
-<img src="assets/aeroplane.jpeg" alt="chillin" width="1800" height="200"/>
+<img src="assets/bushGirl1.jpeg" alt="chillin" width="1800" height="200"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
