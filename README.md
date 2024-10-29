@@ -18,7 +18,7 @@
 
 💬 Ask me about - Anything! I might not be able to help.
 
-⚡ Fun fact - Trny break through the recursive loop of life<br>
+⚡ Fun fact - Glad that I'm broke, else would've been fat.<br>
 
 
 <h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
