@@ -16,7 +16,7 @@
 
 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-💬 Ask me about - Anything! I might not be able to help.
+💬 Ask me about - Anything! I might be able to help.
 
 ⚡ Fun fact - Glad that I'm broke, else would've been fat.<br>
 
