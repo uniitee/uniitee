@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right" width="300" src="assets/octocat2.gif" alt="uniitee"  />
+<img align="right" width="300" src="assets/octocat3.gif" alt="uniitee"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uniitee&label=Profile%20views&color=0e2431&style=flat" alt="uniitee" /> </p>
 
