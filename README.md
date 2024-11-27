@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on Deep Learning and AI
 
-🌱 Currently - Procastinating for End-Sems
+🌱 Currently - might achivie early to bed early to rise?
 
 👯 I’m looking to collaborate on **Deep Learning Projects**
 
