@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on Deep Learning and AI
 
-🌱 Currently - might achivie early to bed early to rise?
+🌱 Currently - detoxing and debugging
 
 👯 I’m looking to collaborate on **Deep Learning Projects**
 
