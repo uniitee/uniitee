@@ -33,11 +33,11 @@
 <h2 align="center">✨ My Github Stats ✨</h2>
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=uniitee&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&width=435)
-  <br/>
+  ![](https://github-readme-stats.vercel.app/api?username=uniitee&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&card_width=435&card_height=200)
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=uniitee&theme=nightowl&hide_border=false&width=435)
-  <br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=uniitee&theme=nightowl&hide_border=false&card_width=435&card_height=200)
+
 </div>
 
 [![An image of @umaghildiyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umaghildiyal)](https://holopin.io/@umaghildiyal)
