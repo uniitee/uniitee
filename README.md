@@ -18,7 +18,7 @@
 
 💬 Ask me about - Anything! I might be able to help.
 
-⚡ Fun fact - Glad that I'm broke, else would've been fat.<br>
+⚡ Fun fact - Advent Of Code i- TT-TT<br>
 
 
 <h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
