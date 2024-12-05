@@ -18,7 +18,7 @@
 
 💬 Ask me about - Anything! I might be able to help.
 
-⚡ Fun fact - Advent Of Code i- TT-TT<br>
+⚡ Fun fact - help<br>
 
 
 <h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
