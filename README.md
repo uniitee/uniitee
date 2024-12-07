@@ -18,7 +18,7 @@
 
 💬 Ask me about - Anything! I might be able to help.
 
-⚡ Fun fact - ok for the sake of it<br>
+⚡ Fun fact - Ok for the sake of it<br>
 
 
 <h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
