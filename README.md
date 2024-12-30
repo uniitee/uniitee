@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uniitee&label=Profile%20views&color=0e2431&style=flat" alt="uniitee" /> </p>
 
-🔭 I’m currently learning react
+🔭 I’m currently trying node.js
 
 🌱 Currently - detoxing and debugging
 
@@ -18,7 +18,7 @@
 
 💬 Ask me about - Anything! I might be able to help.
 
-⚡ Fun fact - Ok for the sake of it<br>
+⚡ Fun fact - My Eyes need saving<br>
 
 
 <h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
