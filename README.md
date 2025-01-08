@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uniitee&label=Profile%20views&color=0e2431&style=flat" alt="uniitee" /> </p>
 
-🔭 I’m currently trying node.js
+🔭 I’m currently trying Next.js
 
 🌱 Currently - detoxing and debugging
 
