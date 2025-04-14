@@ -18,7 +18,7 @@
 
 💬 Ask me about - Anything! I might be able to help.
 
-⚡ Fun fact - My Eyes need saving<br>
+⚡ Fun fact - My Eyes need saving TT-TT<br>
 
 
 <h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
