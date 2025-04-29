@@ -42,7 +42,8 @@
 
 <div>
 
-![GitHub Snake](https://github.com/<uniitee>/<uniitee>/raw/output/dist/github-snake.svg)
+![Snake gif](https://github.com/uniitee/uniitee/blob/output/dist/github-contribution-grid-snake.gif?raw=true)
+
 
 </div>
 
