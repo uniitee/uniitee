@@ -40,4 +40,10 @@
 
 </div>
 
+<div>
+
+![GitHub Snake](https://github.com/<uniitee>/<uniitee>/raw/output/dist/github-snake.svg)
+
+</div>
+
 [![An image of @umaghildiyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umaghildiyal)](https://holopin.io/@umaghildiyal)
