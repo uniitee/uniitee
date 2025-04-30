@@ -40,10 +40,12 @@
 
 </div>
 
+
+<h2 align="center">🐍 Gotta Feed The Snake 🐍</h2>
+
 <div>
 
 ![snake gif](https://github.com/uniitee/uniitee/blob/output/github-snake-dark.svg)
-
 
 </div>
 
