@@ -16,7 +16,7 @@
 
 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-💬 Ask me about - Anything! I might be able to help.
+💬 Ask me about - Anythin'! I might be able to help.
 
 ⚡ Fun fact - My Eyes need saving TT-TT<br>
 
