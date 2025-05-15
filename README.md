@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uniitee&label=Profile%20views&color=0e2431&style=flat" alt="uniitee" /> </p>
 
-🔭 Trying Next.js
+🔭 Trying Solidity | Ethereum
 
 🌱 Currently - detoxing and debugging
 
