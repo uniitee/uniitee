@@ -20,7 +20,7 @@
 
 ⚡ Fun fact - No one missed their German Exam, except- <br>
 
-⛷️ "Anomalies provide the impetus for paradigm change within a field of study."
+⚠️ "Anomalies provide the impetus for paradigm change within a field of study."
 
 
 <h2 align= "center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
