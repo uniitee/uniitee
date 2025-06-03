@@ -18,7 +18,7 @@
 
 💬 Ask me about - Anything! I might be able to help.
 
-⚡ Fun fact - No one missed their German Exam, except- <br>
+🤡 Fun fact - No one missed their German Exam, except- <br>
 
 ⚠️ "Anomalies provide the impetus for paradigm change within a field of study."
 
