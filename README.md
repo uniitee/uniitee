@@ -12,7 +12,7 @@
 
 🔭 Trying Solidity | Ethereum
 
-🌱 Currently - detoxing and debugging
+🌱 Currently - travelling and sailing
 
 👯 I’m looking to collaborate on **Deep Learning Projects**
 
