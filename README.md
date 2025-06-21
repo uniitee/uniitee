@@ -42,13 +42,4 @@
 
 </div>
 
-
-<h2 align="center">🐍 Gotta Feed The Snake 🐍</h2>
-
-<div>
-
-![snake gif](https://github.com/uniitee/uniitee/blob/output/github-snake-dark.svg)
-
-</div>
-
 [![An image of @umaghildiyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umaghildiyal)](https://holopin.io/@umaghildiyal)
